@@ -1449,11 +1449,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyProjects\\Rasada_Test\\Solution\\Backend\\Microservices.Common\\Microservices.Common\\Microservices.Common.csproj",
+      "projectUniqueName": "D:\\MyProjects\\Rasada_Test\\GIT_Solution\\Microservices.Common\\Microservices.Common\\Microservices.Common.csproj",
       "projectName": "Microservices.Common",
-      "projectPath": "D:\\MyProjects\\Rasada_Test\\Solution\\Backend\\Microservices.Common\\Microservices.Common\\Microservices.Common.csproj",
+      "projectPath": "D:\\MyProjects\\Rasada_Test\\GIT_Solution\\Microservices.Common\\Microservices.Common\\Microservices.Common.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\MyProjects\\Rasada_Test\\Solution\\Backend\\Microservices.Common\\Microservices.Common\\obj\\",
+      "outputPath": "D:\\MyProjects\\Rasada_Test\\GIT_Solution\\Microservices.Common\\Microservices.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

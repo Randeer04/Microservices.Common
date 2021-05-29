@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4/rSivSWij1y2qe4+qu869101I9633+vI/vB3IcmMjIBGdGXaEQcY7Xzod/srKXBYIXheVBtqMX2Yjy7ZJuovw==",
+  "dgSpecHash": "m34iGnHb57e8bhc7Fw9o5I5MFVy4IpAquZcm78HFhHE6ybMj/XrQ4iH/LZFoBj7eYOelI51TlweCiE64nwrjhg==",
   "success": true,
-  "projectFilePath": "D:\\MyProjects\\Rasada_Test\\Solution\\Backend\\Microservices.Common\\Microservices.Common\\Microservices.Common.csproj",
+  "projectFilePath": "D:\\MyProjects\\Rasada_Test\\GIT_Solution\\Microservices.Common\\Microservices.Common\\Microservices.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
